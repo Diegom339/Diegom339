@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-<img align="right" alt="coding" width="400" src="[https://mrwallpaper.com/images/hd/4k-programming-python-coding-logo-6suq19bkkzq27mai.jpg](https://png.pngtree.com/png-vector/20240317/ourmid/pngtree-binary-communication-world-png-image_11997511.png)">
+<img align="right" alt="coding" width="400" src="(https://mrwallpaper.com/images/hd/4k-programming-python-coding-logo-6suq19bkkzq27mai.jpg](https://png.pngtree.com/png-vector/20240317/ourmid/pngtree-binary-communication-world-png-image_11997511.png)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegom339" alt="diegom339" /></a> </p>
