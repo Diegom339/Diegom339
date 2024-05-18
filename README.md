@@ -1,4 +1,4 @@
-
+![logo](https://wallpaperswide.com/download/programming_2-wallpaper-2560x2560.jpg)
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
