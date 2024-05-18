@@ -1,6 +1,6 @@
 ![logo](https://nividous.com/wp-content/uploads/2022/08/35-intriguing-statistics-on-intelligent-document-processing-idp-nividous-1024x446.jpg)
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-vector/20240317/ourmid/pngtree-binary-communication-world-png-image_11997508.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" /> </p>
