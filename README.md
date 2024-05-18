@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="left" alt="coding" width="500" src="">
+<img align="center" alt="coding" width="500" src="https://www.open.edu.au/-/media/blog/2022/05-may/computer-science-vs-software-engineering.jpg?h=536&iar=0&w=715&rev=f73ec0e28548423bbb4e5db96519d7da&hash=4F7FB9318497CEE156C7BFE4756CB7B7">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" /> </p>
 
 
