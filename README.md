@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrwallpaper.com%2Fprogramming&psig=AOvVaw1YYjU-ncdZZveGvHhOb8Hc&ust=1716147439186000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCh1dX5l4YDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://mrwallpaper.com/images/hd/binary-circle-programming-wef7rntgnjwu4crp.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegom339" alt="diegom339" /></a> </p>
