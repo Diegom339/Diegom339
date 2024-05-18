@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="Center" alt="coding" width="400" src="https://png.pngtree.com/png-vector/20240317/ourmid/pngtree-binary-communication-world-png-image_11997508.png">
+<img align="Center" alt="coding" width="1050" src="https://www.sdu.dk/-/media/images/nyheder_sduk/nyheder2022/topbilleder-2000x580/kvantetop-2000x580.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" /> </p>
 
 
