@@ -1,4 +1,4 @@
-![logo](https://wallpaperswide.com/download/programming_2-wallpaper-2560x2560.jpg)
+![logo](https://nividous.com/wp-content/uploads/2022/08/35-intriguing-statistics-on-intelligent-document-processing-idp-nividous-1024x446.jpg)
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
