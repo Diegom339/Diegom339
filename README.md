@@ -9,8 +9,10 @@
   <samp> I'm currently a truck driver switching roles to become a software developer passionate about coding and problem solving!
   </samp>
   <br> <br>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" /> </p>
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegom339&label=Profile%20views&color=0e75b6&style=flat" alt="diegom339" 
+  <div align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/24ed9392232693.5e45b4885aef5.jpg"/>
+  </div>
 </p>
 
 <hr>
